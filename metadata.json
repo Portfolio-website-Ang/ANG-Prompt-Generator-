@@ -1,0 +1,10 @@
+{
+  "name": "AI Prompt Generator",
+  "description": "ANG Prompt Generator & Full-Stack AI Mentor Workbench — transforms rough ideas in any language into precision AI-to-AI prompts, full-stack architectural solutions, and grounded technical guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
